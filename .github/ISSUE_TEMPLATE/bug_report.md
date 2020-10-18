@@ -1,7 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug],[Raid],[Dungeon]"
+title: Mention the appropriate label in the title along with the issue title. like
+  "[Raid] Bosses not targetable"
 labels: Bug
 assignees: sausagemadness
 
